@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "tools/products/bolt/vmfloaty_bolt": "https://github.com/gavindidrichsen-puppetlabs/vmfloaty_bolt.git",
+    "tools/products/pct/pct_devx": "https://github.com/gavindidrichsen-puppetlabs/pct_devx.git"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "repos/packaging/packaging": "https://github.com/puppetlabs/packaging.git",
+    "repos/vanagon/forks/pdk-vanagon": "git@github.com:gavindidrichsen-forks/pdk-vanagon.git",
+    "repos/vanagon/forks/puppet-runtime": "git@github.com:gavindidrichsen-forks/puppet-runtime.git",
+    "repos/vanagon/vanagon": "https://github.com/puppetlabs/vanagon.git"
+  }
+}
